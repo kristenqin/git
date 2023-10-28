@@ -1,0 +1,6 @@
+[submodule "协同工作/git_collab_child_usecase"]
+	path = 协同工作/git_collab_child_usecase
+	url = https://github.com/kristenqin/git_collab_child_usecase.git
+[submodule "协同工作/git_collab_parent_usecase"]
+	path = 协同工作/git_collab_parent_usecase
+	url = https://github.com/kristenqin/git_collab_parent_usecase.git
